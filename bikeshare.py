@@ -247,6 +247,9 @@ def print_raw_data(df):
 
         df = df.iloc[5:, ]
 
+def welcome():
+    print("Welcome to out project :)")
+
 
 def main():
     while True:
