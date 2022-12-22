@@ -250,6 +250,9 @@ def print_raw_data(df):
 def welcome():
     print("Welcome to out project :)")
 
+def info():
+    print("The auhtor of the project: abdullah aljeffiry")
+
 
 def main():
     while True:
